@@ -1,4 +1,3 @@
-;
 var module2  = {
 
     report: function(msg) {
